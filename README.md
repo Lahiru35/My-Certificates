@@ -12,6 +12,10 @@ I am a dedicated Cybersecurity enthusiast committed to safeguarding digital asse
 | **Play It Safe: Manage Security Risks** | Mastering risk management frameworks (NIST RMF), performing vulnerability assessments, and implementing effective security controls.[Coursera PI3COOVCVF0S.pdf](https://github.com/user-attachments/files/24534987/Coursera.PI3COOVCVF0S.pdf) |
 
 > **"Security is not just a process, but a mindset of continuous vigilance and detail-oriented analysis."**
+
+![IMG_20241230_151116](https://github.com/user-attachments/assets/34c96e18-61e4-4ecb-91d0-8fc7d55f3b0e)
+
+
 >
 > 
 
